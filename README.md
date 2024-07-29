@@ -1,8 +1,7 @@
 # Module5_assignment_5_1_starter
 
 ## Direct link to the notebook
-
-
+[Direct link](https://github.com/usman-tariq77/Module5_assignment_5_1_starter/blob/main/prompt.ipynb)
 ## Observations
 
 Overall observerations for acceptance rates as below, ranked from highest to lowest:
